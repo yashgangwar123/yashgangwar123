@@ -1,4 +1,4 @@
-![Jaagrav Seal's-cover](https://user-images.githubusercontent.com/52719271/113082778-b0db2180-91f8-11eb-81de-2542f6c20234.png)
+![Yash Gangwar's-cover](./cover-image.png)
 
 ## 🧔 About Me
 
@@ -24,11 +24,11 @@
 
 ## ✍ My Work
 
-[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaagrav&show_icons=true&theme=dark)](https://github.com/Jaagrav)
+[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashgangwar123&show_icons=true&theme=dark)](https://github.com/yashgangwar123)
 
 Here are some of my projects on Github that I am proud of:
 
-[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Codex&show_icons=true&theme=dark)](https://github.com/Jaagrav/CodeX)
+[![SAMPLE](https://github-readme-stats.vercel.app/api/pin/?username=yashgangwar123&repo=SAMPLE_icons=true&theme=dark)](https://github.com/yashgangwar123/SAMPLE)
 [![Xper](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Xper&show_icons=true&theme=dark)](https://github.com/Jaagrav/Xper)
 [![Cordion](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Cordion&show_icons=true&theme=dark)](https://github.com/Jaagrav/Cordion)
 [![Recess](https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Recess&show_icons=true&theme=dark)](https://github.com/Jaagrav/Recess)
