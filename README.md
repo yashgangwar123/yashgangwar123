@@ -2,11 +2,11 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [Recess](https://github.com/Jaagrav/Recess)
+<!-- - 🔭 I’m currently working on [Recess](https://github.com/Jaagrav/Recess) -->
 
-- 🌱 I’m currently learning **React, Arduino, Tensorsflow and CNN**
+- 🌱 I’m currently learning **React,MERN,C/C++**
 
-- 👯 I’m looking to collaborate on **React/Vue/Vanilla Projects**
+- 👯 I’m looking to collaborate on **React/C/C++/CSS Projects**
 
 - 👨‍💻 All of my projects are available at [https://xjaagrav.vercel.app/projects](https://xjaagrav.vercel.app/projects)
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Vue, Web Development and UI/UX**
 
-- 📫 Contact me **[here](jaagravseal03@gmail.com)**
+- 📫 Contact me **[here](gangwaryash06@gmail.com)**
 
 - 📄 My Resume [https://drive.google.com/file/d/10z7nWMOMKMj2KtOxszcxYI2b0sQrxFpn/view?usp=sharing](https://drive.google.com/file/d/10z7nWMOMKMj2KtOxszcxYI2b0sQrxFpn/view?usp=sharing)
 
