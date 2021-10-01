@@ -4,38 +4,38 @@
 
 <!-- - 🔭 I’m currently working on [Recess](https://github.com/Jaagrav/Recess) -->
 
-- 🌱 I’m currently learning **React,MERN,C/C++**
+- 🌱 I’m currently learning **React,MERN,Java,DEVOPS**
 
-- 👯 I’m looking to collaborate on **React/C/C++/CSS Projects**
+- 👯 I’m looking to collaborate on **React/JS/Java Projects**
 
-- 👨‍💻 All of my projects are available at [https://xjaagrav.vercel.app/projects](https://xjaagrav.vercel.app/projects)
+<!-- - 👨‍💻 All of my projects are available at [https://xjaagrav.vercel.app/projects](https://xjaagrav.vercel.app/projects) -->
 
-- You can check out my Arduino projects right **[here](https://www.instructables.com/member/xJaagrav/)**.
+<!-- - You can check out my Arduino projects right **[here](https://www.instructables.com/member/xJaagrav/)**. -->
 
-- 📝 I regularly write articles on [https://xjaagrav.vercel.app/stories](https://xjaagrav.vercel.app/stories)
+- 📝 I am most active on [twitter](https://twitter.com/yashgangwar7558) and tweet about open source, web devlopment, Devops.
 
-- 💬 Ask me about **React, Vue, Web Development and UI/UX**
+- 💬 Ask me about **React, Web Development, DEVOPS and Open Source**
 
-- 📫 Contact me **[here](gangwaryash06@gmail.com)**
+- 📫 I would love to help and collaborate with you. Contact me **[here](gangwaryash06@gmail.com)**
 
-- 📄 My Resume [https://drive.google.com/file/d/10z7nWMOMKMj2KtOxszcxYI2b0sQrxFpn/view?usp=sharing](https://drive.google.com/file/d/10z7nWMOMKMj2KtOxszcxYI2b0sQrxFpn/view?usp=sharing)
+<!-- - 📄 My Resume [https://drive.google.com/file/d/10z7nWMOMKMj2KtOxszcxYI2b0sQrxFpn/view?usp=sharing](https://drive.google.com/file/d/10z7nWMOMKMj2KtOxszcxYI2b0sQrxFpn/view?usp=sharing) -->
 
-- ⚡ Fun fact **People often call me an alien**
+<!-- - ⚡ Fun fact **People often call me an alien** -->
 
 ## ✍ My Work
 
-[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashgangwar123&show_icons=true&theme=dark)](https://github.com/yashgangwar123)
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashgangwar123&show_icons=true&theme=dark)](https://github.com/yashgangwar123)
 
-Here are some of my projects on Github that I am proud of:
+Here are some of my projects on Github that I recently made:
 
-[![SAMPLE](https://github-readme-stats.vercel.app/api/pin/?username=yashgangwar123&repo=SAMPLE_icons=true&theme=dark)](https://github.com/yashgangwar123/SAMPLE)
-[![Xper](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Xper&show_icons=true&theme=dark)](https://github.com/Jaagrav/Xper)
-[![Cordion](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Cordion&show_icons=true&theme=dark)](https://github.com/Jaagrav/Cordion)
-[![Recess](https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Recess&show_icons=true&theme=dark)](https://github.com/Jaagrav/Recess)
+[![Shopping Cart App](https://github-readme-stats.vercel.app/api/pin/?username=yashgangwar123&repo=SAMPLE_icons=true&theme=dark)](https://github.com/yashgangwar123/Shopping-Cart-App)
+[![Assignment Submission Form](https://github-readme-stats.vercel.app/api/pin/?username=yashgangwar123&repo=Xper&show_icons=true&theme=dark)](https://github.com/yashgangwar123/Assignment-Submission-Form)
+<!-- [![Cordion](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Cordion&show_icons=true&theme=dark)](https://github.com/Jaagrav/Cordion)
+[![Recess](https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Recess&show_icons=true&theme=dark)](https://github.com/Jaagrav/Recess) -->
 
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaagrav&layout=compact&show_icons=true&theme=dark)](https://github.com/Jaagrav/Jaagrav)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaagrav&layout=compact&show_icons=true&theme=dark)](https://github.com/yashgangwar123)
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,7 +66,7 @@ Here are some of my projects on Github that I am proud of:
 
 ## 🤝 Connect
 
-[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaagrav/)
-[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xJaagrav)
-[![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xjaagrav/)
-[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaagrav)
+[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yash-gangwar-6bab161b5)
+[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashgangwar7558)
+<!-- [![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xjaagrav/) -->
+[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashgangwar123)
