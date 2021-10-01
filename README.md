@@ -1,4 +1,4 @@
-![Yash Gangwar's-cover](./cover-image.png)
+![Yash Gangwar's-cover](./github-cover-image.png)
 
 ## 🧔 About Me
 
@@ -51,14 +51,16 @@ Here are some of my projects on Github that I recently made:
 ![Skill](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Skill](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Skill](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Skill](https://img.shields.io/badge/MongoDB-4FD446?style=for-the-badge&logo=mongodb&logoColor=white)
+![Skill](https://img.shields.io/badge/MySQL-D48D46?style=for-the-badge&logo=mysql&logoColor=white)
 ![Skill](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Skill](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Skill](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Skill](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Skill](https://img.shields.io/badge/Docker-5198CF?style=for-the-badge&logo=Postman&logoColor=white)
-![Skill](https://img.shields.io/badge/Kubernetes-7360D1?style=for-the-badge&logo=Postman&logoColor=white)
+![Skill](https://img.shields.io/badge/Docker-5198CF?style=for-the-badge&logo=docker&logoColor=white)
+![Skill](https://img.shields.io/badge/Kubernetes-7360D1?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
