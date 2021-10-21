@@ -24,12 +24,12 @@
 
 ## ✍ My Work
 
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashgangwar123&show_icons=true&theme=dark)](https://github.com/yashgangwar123)
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashgangwar7558&show_icons=true&theme=dark)](https://github.com/yashgangwar7558)
 
 Here are some of my projects on Github that I recently made:
 
-[![Shopping Cart App](https://github-readme-stats.vercel.app/api/pin/?username=yashgangwar123&repo=Shopping-Cart-App&show_icons=true&theme=dark)](https://github.com/yashgangwar123/Shopping-Cart-App)
-[![Assignment Submission Form](https://github-readme-stats.vercel.app/api/pin/?username=yashgangwar123&repo=Assignment-Submission-Form&show_icons=true&theme=dark)](https://github.com/yashgangwar123/Assignment-Submission-Form)
+[![Shopping Cart App](https://github-readme-stats.vercel.app/api/pin/?username=yashgangwar7558&repo=Shopping-Cart-App&show_icons=true&theme=dark)](https://github.com/yashgangwar7558/Shopping-Cart-App)
+[![Assignment Submission Form](https://github-readme-stats.vercel.app/api/pin/?username=yashgangwar7558&repo=Assignment-Submission-Form&show_icons=true&theme=dark)](https://github.com/yashgangwar7558/Assignment-Submission-Form)
 <!-- [![Cordion](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Cordion&show_icons=true&theme=dark)](https://github.com/Jaagrav/Cordion)
 [![Recess](https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Recess&show_icons=true&theme=dark)](https://github.com/Jaagrav/Recess) -->
 
@@ -66,6 +66,6 @@ Here are some of my projects on Github that I recently made:
 
 ## 🤝 Connect
 
-[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gangwar-6bab161b5/)
+[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashgangwar7558/)
 [![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashgangwar7558)
-[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashgangwar123)
+[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashgangwar7558)
